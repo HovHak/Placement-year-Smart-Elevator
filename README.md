@@ -1,10 +1,19 @@
-This Process retrieves the face emending of the person’s face from a picture,
-rather than converting it to a massive set of pixels and passing them to the CNN,
+### Description to the approach
+ 
+## Smart Elevator
+------
+
+
+
+This Project retrieves the face emending of the person’s face from a picture,
+rather than converting it to a massive set of pixels and passing them to the CNN model,
 the embeddings are created on person’s face which are, set of vectors that later
 get converted into the set of 128 hidden encodings, these encodings can be saved
 in the Data-base along with the rest of the encodings of different people that can
 be used later as a list of encodings to recognize the entered persons identity.
-(Please refer to Appendix E). The best part about this Algorithm was that, it can
+(Please refer to Appendix A). 
+
+The best part about this Algorithm was that, it can
 take only one picture to Train and the process of Training takes only 1 to 2
 minutes, following that, the identity of the person becomes recognizable. This felt
 satisfying as it almost fulfilled our expectations, we carried on working on this
