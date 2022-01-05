@@ -22,7 +22,9 @@ Development Policy team to check whether we can customize the libraries for
 Volo’s use because the libraries were posted by different people online as Open
 source, but some of them did not have license. After the IOT Business
 Development Policy team has contacted with the owners and agreed on terms of
-use, we continued working on the libraries. My Team Leader Arman Hovsepyan
-has analyzed all the libraries and libs used for this face landmarks estimation
-algorithm and created a Machine code that could accelerate the face detection
-Process and also, he adjusted many of the API’s used, specifically for our Project.
+use, we continued working on the libraries.
+
+When the project was complete, it was dpeloyed on Myswl Servers to connect with a ll the cameras in the lift automatically while performing the face recogonition, if a new face would appear the managemnt team would chose to add the persons identity into the system after which it would train and update the database and add new trained user's face encodings.
+
+The work processes were carried as it is shown in the following pipline.
+<p align="center"><img src = "images/pipeline.PNG" ></p>
