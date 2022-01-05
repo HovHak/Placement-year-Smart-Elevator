@@ -11,7 +11,7 @@ the embeddings are created on person’s face which are, set of vectors that lat
 get converted into the set of 128 hidden encodings, these encodings can be saved
 in the Data-base along with the rest of the encodings of different people that can
 be used later as a list of encodings to recognize the entered persons identity.
-(Please refer to Appendix A). 
+<p align="center"><img src = "images/formula1.PNG" ></p>
 
 The best part about this Algorithm was that, it can
 take only one picture to Train and the process of Training takes only 1 to 2
